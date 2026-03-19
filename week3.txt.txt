@@ -1,0 +1,21 @@
+﻿Summary of Week 3: Pandas and NumPy
+
+
+I gained knowledge of NumPy and Pandas this week.
+
+
+NumPy
+Arrays and how they work
+Mathematical operations such as square and mean
+The idea of broadcasting
+
+
+Pandas
+Series and DataFrames
+Cleaning up data (managing missing values)
+Indexing and choosing
+Aggregation and grouping
+
+
+I worked with arrays and eliminated missing values from a dataset.
+I also grouped data and computed average values.
