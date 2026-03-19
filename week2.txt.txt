@@ -1,0 +1,4 @@
+﻿I studied Python data structures including lists, tuples, dictionaries, and sets, and learned how each structure is used to store and manage data efficiently. 
+I worked on accessing dictionary values, working with lists, and eliminating duplicate elements using sets. In order to carry out reusable tasks like figuring out the sum of squares and removing even numbers from a list, I learned how to define and utilise functions. 
+I also explored lambda functions for writing short anonymous functions and implemented recursion through a factorial example to understand how functions can call themselves. In order to construct new lists in a clear manner, I also worked on my list comprehension skills.
+ I created a simple data cleaning script as part of the client project that eliminates duplicate values and filters data according to predetermined criteria.
