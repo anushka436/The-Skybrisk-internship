@@ -1,0 +1,19 @@
+﻿Week 4: Data Visualization
+
+
+In this week, I learned data visualization using Matplotlib and Seaborn.
+
+
+Matplotlib:
+- Line plots
+- Basic graph customization
+
+
+Seaborn:
+- Scatter plots
+- Histograms
+- Heatmaps for correlation
+
+
+I created visualizations to understand relationships between variables such as
+hours studied and marks. Heatmaps helped identify correlations in the dataset.
